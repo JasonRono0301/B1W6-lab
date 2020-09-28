@@ -1,8 +1,8 @@
 .labContainer{
+    font-family: 'Roboto', sans-serif;
     text-decoration: transparent;
-    width: 300px;
-    height: 200px;
-    padding: 40px;
+    width: 400px;
+    height: 250px;
     margin: 40px;
     border: 20px;
     border-style: dashed;
@@ -11,5 +11,6 @@
 }
 
 li{
+    font-size: 20px;
     list-style-type: none;
 }
